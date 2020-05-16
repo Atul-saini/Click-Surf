@@ -1,0 +1,113 @@
+#section1{
+  text-align: center;
+  padding: 5% 10%;
+  text-emphasis-style:dot;
+  font-family: "Times New Roman", Times, serif;
+
+ background-color: white;
+
+  }
+.title{
+  font-weight: 1000;
+font-style: oblique;
+  color: black;
+  padding: 5%;
+  font-size: 400%;
+}
+h1{
+  font-style: italic;
+  color: white;
+}
+#sec2
+{
+font-size: 150%;
+background-color: black;
+margin-bottom: 5%;
+  }
+  .insta{
+    margin-bottom: 10%;
+    margin-right: 20%;
+  }
+  .instalink{
+    margin-bottom: 40px;
+  }
+  .instagram{
+  text-align: lefft;
+
+
+  padding: 30px;
+  padding-left: 100px;
+
+  }
+  .fb{
+ text-align:right;
+  margin-bottom: 5%;
+   margin-right: 5%;
+   padding-left: 15%;
+
+
+  }
+
+  .tvf{
+
+  color:#66ffcc;
+  }
+  .tvf:hover{
+      color:#cc0099;
+
+  }
+  .twt{
+  color: #3399ff;
+  }
+  .twt:hover{
+      color:#dd99ff;
+
+
+  }
+  .wpp{
+    color:#66ff66;
+  }
+  .wpp:hover{
+  color:  #00e6e6;
+  }
+  .mail{
+    color: #990000;
+  }
+  .mail:hover{
+    color:#ff4dff;
+  }
+  .fbb{
+      color:#99ff33;
+
+  }
+  .fbb:hover{
+    color: #1C87E7;
+  }
+  .titl{
+  
+
+    background-color: #668cff;
+    border-radius: 10px;
+  }
+.tw
+{
+  text-align: left;
+
+margin-bottom: 5%;
+    padding-left: 100px;
+}
+#foter{
+   text-align: center;
+
+  margin:5%;
+
+}
+.fic{
+ margin:5px;
+}
+.em{
+  text-align: left;
+ padding-bottom: 3%;
+  margin-bottom: 10%;
+    padding-left: 100px;
+}
